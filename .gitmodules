@@ -1,0 +1,3 @@
+[submodule "RISKADAPT"]
+	path = RISKADAPT
+	url = https://github.com/fmidev/RISKADAPT
